@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 36" width="54" height="36">
+  <!-- Outer diamond outline with overlapping points for seamless X-intersection -->
+  <polygon points="0,18 27,3 54,18 27,33" fill="none" stroke="#1d1d1e" stroke-width="2.2" stroke-linejoin="miter" stroke-miterlimit="4" />
+  <!-- Inner solid filled diamond -->
+  <polygon points="14,18 27,9.5 40,18 27,26.5" fill="#1d1d1e" />
+  <!-- Top notch dots -->
+  <circle cx="0" cy="5" r="2.5" fill="#1d1d1e" />
+  <circle cx="54" cy="5" r="2.5" fill="#1d1d1e" />
+  <!-- Bottom notch dots -->
+  <circle cx="0" cy="31" r="2.5" fill="#1d1d1e" />
+  <circle cx="54" cy="31" r="2.5" fill="#1d1d1e" />
+</svg>
